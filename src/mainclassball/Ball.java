@@ -21,4 +21,11 @@ public class Ball {
          System.out.println("hello from Ball method");
     }
     
+    void run(){
+        System.out.println("run ball");
+    }
+    void run(String name){
+      System.out.println(name);  
+    }
+    
 }

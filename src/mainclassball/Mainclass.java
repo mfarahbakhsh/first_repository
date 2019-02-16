@@ -15,8 +15,9 @@ public class Mainclass {
     public static void  main(String[] args) {
         
       //  Baseball b=new Baseball();
-        Ball b=new Baseball();
-        b.Ballmethod();
+         Ball b=new Baseball();
+         b.run();
+         b.run("ali");
         
     }
     

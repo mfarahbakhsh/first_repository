@@ -21,4 +21,8 @@ public class Baseball extends Ball{
         System.out.println("hello from Baseball mthod");
     }
     
+    void run(){
+        System.out.println("run baseball");
+    }
+    
 }
