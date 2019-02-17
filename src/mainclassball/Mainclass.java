@@ -15,9 +15,9 @@ public class Mainclass {
     public static void  main(String[] args) {
         
       //  Baseball b=new Baseball();
-         Ball b=new Baseball();
-         b.run();
-         b.run("ali");
+         Ball b=new Baseball();//upcastingتبدیل کلاس فرزند به کلاس بالاتر(پدر)
+         b.run();//runtime polymorphism
+         b.run("ali");//compile polymorphism
         
     }
     
