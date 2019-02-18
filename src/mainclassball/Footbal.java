@@ -13,6 +13,7 @@ package mainclassball;
 public class Footbal extends Ball{
     void run()
     {
+         System.out.println("hello from run method in footbal");
     }
     
 }
