@@ -11,5 +11,8 @@ package mainclassball;
  * @author farsam
  */
 public class Footbal extends Ball{
+    void run()
+    {
+    }
     
 }
